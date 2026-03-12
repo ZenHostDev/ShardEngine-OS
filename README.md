@@ -18,7 +18,7 @@ Stellen Sie sicher, dass **Node.js** (v18+) installiert ist.
 
 1. **Repository klonen:**
    ```bash
-   git clone [https://github.com/DEIN_NUTZERNAME/shard-engine.git](https://github.com/DEIN_NUTZERNAME/shard-engine.git)
+   git clone https://github.com/ZenHostDev/ShardEngine-OS
    cd shard-engine
     ```
    
@@ -55,9 +55,10 @@ Wir arbeiten kontinuierlich an der ShardEngine. Geplante Features:
    git add .
    git commit -m "initial commit: shard engine core v2.4"
    git branch -M main
-   git remote add origin https://github.com/DEIN_NUTZERNAME/shard-engine.git
+   git remote add origin https://github.com/ZenHostDev/ShardEngine-OS
    git push -u origin main
 
 
 
 Damit steht dein Projekt online und sieht absolut professionell aus.
+
