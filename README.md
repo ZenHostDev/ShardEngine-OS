@@ -1,4 +1,4 @@
-# ShardEngine OS v2.4
+# ShardEngine OS v1
 
 ![License](https://img.shields.io/badge/license-MIT-indigo)
 ![Status](https://img.shields.io/badge/status-active_development-warn)
@@ -57,6 +57,7 @@ Wir arbeiten kontinuierlich an der ShardEngine. Geplante Features:
    git branch -M main
    git remote add origin https://github.com/DEIN_NUTZERNAME/shard-engine.git
    git push -u origin main
+
 
 
 Damit steht dein Projekt online und sieht absolut professionell aus.
